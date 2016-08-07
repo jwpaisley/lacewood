@@ -14,5 +14,9 @@
     "logging"
   ],
   "author": "Jacob Paisley <contact@jwpaisley.com> (http://jwpaisley.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.2"
+  }
 }
