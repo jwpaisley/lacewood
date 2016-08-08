@@ -1,4 +1,3 @@
-![Lacewood](https://raw.githubusercontent.com/jwpaisley/lacewood/master/lacewood_small.png?token=AJkgS1Iv3IFYHMJTHCwloV5WoDU93dFoks5XsQESwA%3D%3D)
 # Lacewood
 ## A simple and smooth logging solution.
 

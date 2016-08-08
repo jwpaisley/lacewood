@@ -1,6 +1,6 @@
 {
   "name": "lacewood",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library of color-coded logging functions.",
   "main": "index.js",
   "scripts": {
